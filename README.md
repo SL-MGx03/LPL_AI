@@ -84,3 +84,7 @@ Upon running `app.py`, the system will:
 2. Train the model.
 3. Display a classification report.
 4. Prompt you to select two teams and enter a first-inning score to generate a prediction.
+
+
+## Made by SL-MGx03
+https://slmgx.live
