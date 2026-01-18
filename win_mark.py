@@ -93,6 +93,3 @@ def predict_future():
     except (ValueError, IndexError):
         print("Invalid input. Please enter a valid number from the list.")
 
-
-predict_future()
-reportgen()
