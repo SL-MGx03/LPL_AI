@@ -47,7 +47,8 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 - `win_mark.py`: Core of the Machine Learning module
 - `README.md`: Project documentation.
 
-You can place your data files (e.g., from Cricsheet) in a dedicated folder such as `data/` and load them in `data_frame.py`.
+You can place your data files (e.g., from Cricsheet) in a dedicated folder such as `/lpldata` and load them in `data_frame.py`.
+Make sure they have same json format as `lpldata` folder
 
 ---
 
