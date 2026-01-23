@@ -57,8 +57,6 @@ The goal of this project is to:
     - New features (team stats, player stats, etc.)
     - Different model architectures
 
-> Note: Exact features may depend on the current implementation in the repository. This README is written to be professional and extensible without removing or changing your original description.
-
 ---
 
 ## How It Works
